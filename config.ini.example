@@ -1,0 +1,7 @@
+[bot]
+API_TOKEN = 1234567890
+
+[owncloud]
+URL = https://example.domain.de/owncloud/
+USER = you@test.local
+PASSWORD = yourpassword
