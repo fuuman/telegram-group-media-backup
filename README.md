@@ -1,5 +1,7 @@
 # telegram-group-media-backup
 
+![17f8a6acf467e7ffd7a30376dafc056c.png](https://pichoster.net/images/2017/06/11/17f8a6acf467e7ffd7a30376dafc056c.png)
+
 This code can run as bot for the telegram messenger. After creating your own bot and connecting it to that script via config.ini, you can add it to a telegram group. Take care, that the [privacy mode](https://core.telegram.org/bots#privacy-mode) of your bot is disabled. If it's not, your bot cannot read the messages sent to your group. After adding every photo, video or file sent to that group will be backuped to a configured folder on an owncloud server. 
 
 ## What you need
