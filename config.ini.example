@@ -5,3 +5,4 @@ API_TOKEN = 1234567890
 URL = https://example.domain.de/owncloud/
 USER = you@test.local
 PASSWORD = yourpassword
+BACKUP_FODLER = my_media_backup

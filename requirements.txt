@@ -1,0 +1,9 @@
+certifi==2017.4.17
+chardet==3.0.4
+future==0.16.0
+idna==2.5
+pyocclient==0.4
+python-telegram-bot==6.1b2
+requests==2.17.3
+six==1.10.0
+urllib3==1.21.1
