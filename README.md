@@ -17,7 +17,9 @@ This code can run as bot for the telegram messenger. After creating your own bot
 
 To test if everything is working well, you can run `python main.py` and add your new bot to a telegram group now. Sending a file to the group should let it appear in your owncloud.
 
-### Info
+## Information
+
+### Used
 This bot was implemented using the [python-telegram-bot](https://python-telegram-bot.org/), a nice wrapper for the official Telegram API.
 
 ### TODO 
