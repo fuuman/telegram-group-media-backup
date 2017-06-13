@@ -25,10 +25,10 @@ def backup(bot, update):
         now = now.replace(c, '_')
     if len(message.photo) > 0:
         file_id = message.photo[-1].file_id
-        file_name = 'Photo_{now}'.format(now=now)
+        file_name = 'Photo_{now}.jpg'.format(now=now)
     elif message.video is not None:
         file_id = message.video.file_id
-        file_name = 'Video_{now}'.format(now=now)
+        file_name = 'Video_{now}.mp4'.format(now=now)
     elif message.document is not None:
         file_id = message.document.file_id
         file_name = message.document.file_name
